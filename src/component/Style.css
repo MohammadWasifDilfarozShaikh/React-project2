@@ -1,0 +1,444 @@
+nav ul li{
+    color: blue;
+    list-style: none;
+    margin: 15px;
+}
+nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.Hire{
+    background-color: #ff7c0b;
+    border: 2px #ff7c0b;
+    border-radius: 5px;
+    height: 41px;
+    width: 97px;
+    text-decoration: none;
+}
+.Hire1{
+    text-decoration: none;
+    color: white;
+}
+.Home1{
+     text-decoration: none;
+     color: black;
+}
+.About1{
+     text-decoration: none;
+     color: black;
+}
+.Portfolio1{
+     text-decoration: none;
+     color: black;
+}
+.Contact1{
+     text-decoration: none;
+     color: black;
+}
+.Home1:hover{
+    color:#ff7c0b;
+    text-decoration: underline;
+}
+.About1:hover{
+    color:#ff7c0b;
+    text-decoration: underline;
+}
+.Portfolio1:hover{
+    color:#ff7c0b;
+    text-decoration: underline;
+}
+.Contact1:hover{
+    color:#ff7c0b;
+    text-decoration: underline;
+}
+.LearnM{
+    position: absolute;
+    background-color: #ff7c0b;
+    border: 2px #ff7c0b;
+    border-radius: 5px;
+    height: 41px;
+    width: 105px;
+    text-decoration: none;
+    color: white;
+    top: 380px;
+    left: 139px;
+}
+.LearnMs{
+    text-decoration: none;
+    color: white;
+}
+.headingM{
+    position: absolute;
+    top: 150px;
+    left: 139px;
+}
+.paraM{
+    position: absolute;
+    top: 257px;
+    left: 139px;
+}
+.MainC{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+    width: 1119px;
+    height: 469px;
+    position: relative;
+    left: 92px;
+    top: 10px;
+    background-color: #f5f4f4;
+}
+.heading4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading4S{
+    color: gray;
+}
+.heading1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ServiceS{
+    position: absolute;
+    left: 60px;
+}
+.WD{
+    position: absolute;
+    top: 164px;
+    left: 110px;
+}
+.WDs{
+    position: absolute;
+    top: 200px;
+    left: 60px;
+    opacity: 0.5;
+}
+.UIUX{  
+    position: absolute; 
+    top: 259px;
+    left: 110px;
+}
+.UIUXs{
+    position: absolute;
+    top: 293px;
+    left: 60px;
+    opacity: 0.5;
+}
+.WC{
+    position: absolute;
+    top: 345px;
+    left: 110px;
+}
+.WCs{
+    position: absolute;
+    top: 379px;
+    left: 60px;
+    opacity: 0.5;
+}
+.WSBIJ{
+    position: absolute;
+    right: 60px;
+}
+.WSBIJ-p1{
+    position: absolute;
+    left: 825px;
+    top: 170px;
+    opacity: 0.5;
+}
+.WSBIJ-p2{
+    position: absolute;
+    left: 825px;
+    top: 250px;
+    opacity: 0.5;
+}
+.WSBIJ-btn{
+    position: absolute;
+    left: 825px;
+    top: 340px;
+    background-color: black;
+    border: 2px #ff7c0b;
+    border-radius: 2px;
+    height: 41px;
+    width: 105px;
+    text-decoration: none;
+    color: white;
+}
+.WSBIJ-btns{
+    text-decoration: none;
+    color: white;
+}
+.Details-1{
+    position: absolute;
+    left: 800px;
+    top: 380px; 
+}
+.DS-1{
+    opacity: 0.5;
+}
+.Details-2{
+    position: absolute;
+    left: 923px;
+    top: 380px; 
+}
+.DS-2{
+    opacity: 0.5;
+}
+.Details-3{
+    position: absolute;
+    left: 1018px;
+    top: 380px; 
+}
+.DS-3{
+    opacity: 0.5;
+}
+.GD{
+    width: 45%;
+    height: 86vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4a4a4a;
+}
+.GD-P{
+    color: white;
+    font-size: 28px;
+}   
+.Left-P{
+    width: 55%;
+    height: 86vh;
+    background-color: #bebaba;
+} 
+.Main-Portfolio{
+    display: flex;
+}
+.GD-T1{
+    position: relative;
+    top: 80px;
+    left: -223px;
+    color: white;
+}
+.GD-T2{
+    position: relative;
+    top: 100px;
+    left: -313px;
+    color: white;
+}
+.GD-T3{
+    position: relative;
+    top: 120px;
+    left: -378px;
+    color: white;
+}
+.box1{
+    position: relative;
+    width: 240px;
+    height: 153px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(6, 6, 6, 0.19);
+    top: 100px;
+    left: -51px;
+    text-align: center;
+    background-color: white;
+}
+.box2{
+    position: relative;
+    width: 240px;
+    height: 153px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(6, 6, 6, 0.19);
+    background-color: white;
+    left: 236px;
+    top: -72px;
+    text-align: center;
+}
+.box3{
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(6, 6, 6, 0.19);
+    background-color: white;
+    width: 240px;
+    height: 153px;
+    top: -67px;
+    left: -51px;
+    text-align: center;
+}
+.box4{
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(8, 7, 7, 0.2), 0 6px 20px 0 rgba(6, 6, 6, 0.19);
+    background-color: white;
+    left: 236px;
+    width: 240px;
+    height: 153px;
+    top: -240px;
+    text-align: center;
+}
+.box-Main{
+    position: relative;
+    right: 10px;
+    
+}
+.box1-C{
+    width: 112px;
+    height: 108px;
+    background-color: pink;
+}
+.box1-edit{
+    position: absolute;
+    left: 75px;
+    top: 50px;
+}
+.graphic1{
+    position: absolute;
+    top: 18px;
+}
+.box2-C{
+    width: 112px;
+    height: 108px;
+    background-color: black;
+}
+.box2-edit{
+    position: absolute;
+    left: 75px;
+    top: 50px;
+    
+}
+.graphic2{
+    position: absolute;
+    top: 18px;
+    left: 70px;
+}
+.box3-C{
+    width: 112px;
+    height: 108px;
+    background-color: yellow;
+}
+.box3-edit{
+    position: absolute;
+    left: 75px;
+    top: 50px;
+}
+.graphic3{
+    position: absolute;
+    top: 18px;
+}
+.box4-C{
+    width: 112px;
+    height: 108px;
+    background-color: gray;
+}
+.box4-edit{
+    position: absolute;
+    left: 75px;
+    top: 50px;
+}
+.graphic4{
+    position: absolute;
+    top: 18px;
+}
+.edit2{
+    color: white;
+}
+.edits2{
+    color: white;
+}
+.contact{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+    width: 1119px;
+    height: 469px;
+    position: relative;
+    left: 92px;
+    top: 10px;
+    background-color: #f5f4f4;
+   
+}
+.contact-heading{
+    display: flex;
+    justify-content: center;
+}
+.submit{
+    position: absolute;
+    background-color: #ff7c0b;
+    border: 2px #ff7c0b;
+    border-radius: 5px;
+    height: 41px;
+    width: 105px;
+    text-decoration: none;
+    color: white;
+    top: 363px;
+    left: 408px;
+}
+.submitS{
+    text-decoration: none;
+    color: white;
+}
+.FN{
+    position: relative;
+    left: 403px;
+    top: 23px;
+}
+.FN-inp{
+    position: relative;
+    top: 31px;
+    left: 400px;
+}
+.LN{
+    position: relative;
+    left: 426px;
+}
+.LN-inp{
+    position: relative; 
+    left: 345px;
+    top: 30px;
+    width: 155px;
+}
+.email{
+    position: relative;
+    top: 69px;
+    left: -22px;
+}
+.email-inp{
+    position: relative;
+    top: 100px;
+    right: 66px;
+    width: 32%;
+}
+.Last-inp{
+    position: relative;
+    top: 141px;
+    right: 431px;
+}
+.LN-inpS{
+    position: relative; 
+    top: 153px;
+    left: 406px;
+    width: 32%;
+    height: 50px;
+}
+.Image-1{
+    position: relative;
+    left: 745px;
+    width: 550px;
+    height: 500px;
+}
+.Image-2{
+    position: relative;
+    left: 242px;
+    width: 550px;
+    height: 359px;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.fa-brands{
+    margin-bottom: 200%;
+    display: block;
+}
+
+.fixed-icon{
+    position: fixed;
+    left: 5%;
+    top: 35%;
+}
